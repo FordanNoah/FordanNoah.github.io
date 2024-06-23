@@ -1,0 +1,71 @@
+<!DOCTYPE HTML>
+<!--
+	Strata by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Noah Fordan</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+			<header id="header">
+				<div class="inner">
+					<a href="#" class="image avatar"><img src="images/avatar.jpg" alt="" /></a>
+					<h1><strong>Noah Fordan</strong><h1>
+					A Computer Science student at the University of Central Florida
+				</div>
+			</header>
+
+		<!-- Main -->
+			<div id="main">
+
+				<!-- One -->
+					<section id="one">
+						<header class="major">
+							<h2>About me.</h2>
+						</header>
+						<p>I am a programmer and a student. I am studying Computer Science (B.S.) at the University of Central Florida in Orlando, Florida. I am fluent in English and can speak conversational Japanese. I am proficient in C, C++, Python and Javascript. I also have experience in web development and design. I have previously worked as a dishwasher at a restaurant. This experience taught me how to communicate and work efficiently with a team of people in a fast-paced environment.</p>
+					</section>
+					
+					
+						<section id="two">
+						<h2>Other Work</h2>
+						<ul class="actions">
+							<li><a href="index.html" class="button">About Me</a></li>
+							<li><a href="coverletter.html" class="button">Cover Letter</a></li>
+							<li><a href="interview.html" class="button">Mini Interview</a></li>
+						</ul>
+
+
+
+			</div>
+
+		<!-- Footer -->
+			<footer id="footer">
+				<div class="inner">
+					<ul class="icons">
+						<li><a href="https://github.com/FordanNoah" class="icon brands fa-github"><span class="label">Github</span></a></li>
+						<li><a href="mailto:fordannoah@gmail.com" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+					</ul>
+					<ul class="copyright">
+						<li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+					</ul>
+				</div>
+			</footer>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.poptrox.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
